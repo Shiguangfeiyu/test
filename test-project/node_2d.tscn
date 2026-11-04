@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://wds8da3cg13h"]
+
+[node name="Node2D" type="Node2D" unique_id=777718782]
+
+[node name="Label" type="Label" parent="." unique_id=652813689]
+offset_right = 40.0
+offset_bottom = 23.0
+text = "13213131"
